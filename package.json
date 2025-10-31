@@ -1,12 +1,16 @@
 {
   "name": "@radzztnzx/rbail",
   "type": "module",
-  "version": "3.3.9-rz.4",
-  "description": "Pro Bails based by Whiskeysockets, Mdified by RadzzOffc",
+  "version": "3.3.9-rz.6",
+  "description": "Pro Bails based by Whiskeysockets, Modified by RadzzOffc",
   "keywords": [
     "whatsapp",
     "automation",
-    "radzzoffc"
+    "radzzoffc",
+    "bot whatsapp",
+    "baileys",
+    "bails",
+    "rbail"
   ],
   "homepage": "https://github.com/RTypeByte/RBails",
   "repository": {
